@@ -10,7 +10,6 @@
 
 (function() {
     'use strict';
-var x = document.getElementsByClassName("moreminus");
     var array = ["sold","arch","cav","pal","piq","chev","caa","bal","cat"];
     const listItems = document.querySelectorAll('.moreminus');
     for (let i = 0; i < listItems.length; i++) {
